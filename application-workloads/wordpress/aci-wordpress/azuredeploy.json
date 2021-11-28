@@ -162,7 +162,7 @@
           {
             "name": "wordpress",
             "properties": {
-              "image": "wordpress:4.9-apache",
+              "image": "wordpress:apache",
               "ports": [
                 {
                   "protocol": "TCP",
