@@ -196,7 +196,7 @@
           {
             "name": "mysql",
             "properties": {
-              "image": "mysql",
+              "image": "mysql:latest",
               "ports": [
                 {
                   "protocol": "TCP",
