@@ -172,7 +172,7 @@
               "environmentVariables": [
                 {
                   "name": "WORDPRESS_DB_HOST",
-                  "value": "127.0.0.1:3306"
+                  "value": "[::]3306"
                 },
                 {
                   "name": "WORDPRESS_DB_PASSWORD",
